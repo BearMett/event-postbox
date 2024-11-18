@@ -17,7 +17,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-br from-pink-100 to-purple-200 flex items-center justify-center p-4">
       <div className="bg-white rounded-2xl shadow-2xl p-8 max-w-md w-full text-center space-y-6">
         <h1 className="text-3xl font-bold text-gray-800 mb-4">
-          타임 캡슐 편지
+          연말 편지함
         </h1>
         
         <p className="text-gray-600 mb-6">
